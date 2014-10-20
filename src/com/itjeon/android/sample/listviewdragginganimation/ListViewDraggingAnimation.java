@@ -16,11 +16,11 @@
 
 package com.itjeon.android.sample.listviewdragginganimation;
 
+import java.util.ArrayList;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ListView;
-
-import java.util.ArrayList;
 
 /**
  * This application creates a listview where the ordering of the data set
